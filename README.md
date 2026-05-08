@@ -114,9 +114,3 @@ Organizations often struggle to monitor profitability, budget utilization, and c
 ## 🔍 ATS Keywords
 Power BI, SQL, Excel, Data Analytics, Business Intelligence, Dashboard Development, Data Visualization, DAX, KPI Reporting, Revenue Analysis, Profitability Analysis, Customer Analytics, Data Modeling, ETL, SQL Joins, Primary Key, Foreign Key, Interactive Dashboard
 
----
-
-## 👨‍💻 Author
-**Soumya Ranjan Rout**  
-MBA (HR & Information Systems) | Aspiring Data Analyst  
-Skilled in Power BI, SQL, Excel, and Business Analytics
